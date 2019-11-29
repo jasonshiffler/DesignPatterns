@@ -2,9 +2,9 @@
  * Runs the main program. Demonstrates weatherData being updated and how an observer responds to it.
  */
 
-package com.jshiffler.pattern.observer;
+package com.shiffler.pattern.observer;
 
-public class WeatherStation {
+public class MainWeatherStation {
 
 
     public static void main(String[] args) throws InterruptedException {

@@ -1,4 +1,4 @@
-package com.jshiffler.pattern.observer;
+package com.shiffler.pattern.observer;
 
 public interface Observer {
 
