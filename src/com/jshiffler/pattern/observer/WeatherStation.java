@@ -2,13 +2,13 @@
  * Runs the main program. Demonstrates weatherData being updated and how an observer responds to it.
  */
 
-package com.shiffler.pattern.strategy;
+package com.jshiffler.pattern.observer;
 
 public class WeatherStation {
 
 
     public static void main(String[] args) throws InterruptedException {
-        WeatherData  weatherData = new WeatherData();
+        WeatherData weatherData = new WeatherData();
 
         CurrentConditionDisplay currentConditionDisplay = new CurrentConditionDisplay(weatherData);
 

@@ -3,7 +3,7 @@
  * updates.
  */
 
-package com.shiffler.pattern.strategy;
+package com.jshiffler.pattern.observer;
 
 import java.util.ArrayList;
 

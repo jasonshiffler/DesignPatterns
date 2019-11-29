@@ -1,8 +1,13 @@
-This package is a simple illustration of the Observer Pattern at work. It allows a display (the observer) to subscribe to
-a WeatherData source(the observable) so it can receive updates whenever the WeatherData source has new
-information. This type of design shows the benefits that interfaces allow where two unrelated types
-of objects can communicate without too much coupling between them.  
+This package is a quick demo of the strategy pattern. We use a combination of the duck class and behavior classes to 
+compose a duck with the behaviors we want. We only need to factor behaviors out of the duck class that aren't common. 
+All ducks can swim so we leave that as part of the duck class. However, Mallards can fly but rubber ducks can't so the 
+fly behavior is factored out of the duck class and into a class of its own. If we added fly() to the abstract Duck 
+class we'd end up with flying rubber ducks which we don't want. If we pushed fly() down to the subclasses code reuse
+which be much more difficult to implement.
 
-Observer Pattern Definition (From **Head First Design Patterns**)
-The Observer Pattern defines a one to many dependency between objects so that when one object changes state, all
-of its dependents are notified and updated automatically.
+Design principles
+
+-Defines a family of algorithms, encapsulates each one, and makes them interchangeable. Lets the algorithm vary
+independently from the clients that use it.
+
+-Composition over inheritance

@@ -2,7 +2,7 @@
  * Our interface for an object that can send updates to observers when conditions change
  */
 
-package com.shiffler.pattern.strategy;
+package com.jshiffler.pattern.observer;
 
 public interface Observable {
 

@@ -2,7 +2,11 @@
  * Our display that implements the Observer interface so that it can be updated with weather conditions change.
  */
 
-package com.shiffler.pattern.strategy;
+package com.jshiffler.pattern.observer;
+
+import com.jshiffler.pattern.observer.DisplayElement;
+import com.jshiffler.pattern.observer.Observable;
+import com.jshiffler.pattern.observer.Observer;
 
 public class CurrentConditionDisplay implements Observer, DisplayElement {
 

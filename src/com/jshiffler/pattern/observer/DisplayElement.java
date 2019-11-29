@@ -1,4 +1,4 @@
-package com.shiffler.pattern.strategy;
+package com.jshiffler.pattern.observer;
 
 public interface DisplayElement {
 

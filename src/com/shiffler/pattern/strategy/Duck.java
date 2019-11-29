@@ -1,6 +1,6 @@
 //This is our Duck Super Type
 
-package com.jshiffler.pattern.strategy;
+package com.shiffler.pattern.strategy;
 
 public abstract class Duck {
 

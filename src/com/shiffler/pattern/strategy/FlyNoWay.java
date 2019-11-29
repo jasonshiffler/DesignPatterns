@@ -1,4 +1,4 @@
-package com.jshiffler.pattern.strategy;
+package com.shiffler.pattern.strategy;
 
 public class FlyNoWay implements FlyBehavior {
 

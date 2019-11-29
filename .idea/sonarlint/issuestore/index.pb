@@ -23,8 +23,6 @@ b
 -src/com/jshiffler/pattern/strategy/Quack.java,2/d/2ddfccc41af285e3ac8185839aa73eab8bd85ee5
 \
 ,src/com/jshiffler/pattern/strategy/Readme.md,8/a/8aab31a4e0fd0ce917df8d5f8765b577bb493078
-^
-.src/com/shiffler/pattern/strategy/Subject.java,f/8/f80cc80aba45115d0090cb8f1ca96928ebb0ad76
 _
 /src/com/shiffler/pattern/strategy/Observer.java,3/f/3f688496283ba65999f302a66ba526dc59064253
 b
