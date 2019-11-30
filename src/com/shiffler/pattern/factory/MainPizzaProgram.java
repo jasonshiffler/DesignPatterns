@@ -1,3 +1,7 @@
+/**
+ * Our main program that allows us to see Pizza creation in action
+ */
+
 package com.shiffler.pattern.factory;
 
 public class MainPizzaProgram {

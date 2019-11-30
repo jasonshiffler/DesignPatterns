@@ -1,3 +1,8 @@
+/**
+ * This is our archetype for a Pizza
+ * Defines all the things that should happen for a Pizza
+ */
+
 package com.shiffler.pattern.factory;
 
 import java.util.ArrayList;
@@ -29,7 +34,7 @@ public abstract class Pizza {
     }
 
     void box() {
-        System.out.println("Place pizza in piazza store box");
+        System.out.println("Place pizza in Pizza Store box");
     }
 
     String getName(){

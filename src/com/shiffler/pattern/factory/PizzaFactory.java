@@ -1,3 +1,7 @@
+/**
+ * This is our Pizza Factory archetype implemented using an abstract class
+ */
+
 package com.shiffler.pattern.factory;
 
 public abstract class PizzaFactory {
