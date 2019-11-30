@@ -9,7 +9,6 @@ series on design patterns that an easier way to solve this problem would be to h
 condiments that could be added. Reason being is that condiments aren't really beverages and the idea of the decorator
 is that it both HAS-A beverage and IS-A beverage. 
 
-
 -Decorators have the same supertype as the objects they decorate.
 -The Decorator Pattern attaches additional responsibilities to an object dynamically. Decorators provide a flexible
 alternative to subclassing for extending functionality.
