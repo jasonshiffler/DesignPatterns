@@ -1,0 +1,18 @@
+
+’"squid:ClassVariableVisibilityCheck
+"]Make refridgeratorOpen a static final constant or non-public and provide accessors if needed.(İÙ‹Ñ8¦Ú®Èì-
+V
+squid:S106$"9Replace this use of System.out or System.err by a logger.(Ş›Ğö8ƒ‹Éì-
+[
+squid:S106)"9Replace this use of System.out or System.err by a logger.(Ëœí³ÿÿÿÿÿ8¬ÜÉì-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(İóšÚ8ªº¶Èì-
+"squid:ClassVariableVisibilityCheck	"SMake grillOn a static final constant or non-public and provide accessors if needed.(şüÂÎüÿÿÿÿ8¦Ú®Èì-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÓñÀÍøÿÿÿÿ8à’´Èì-
+[
+squid:S106."9Replace this use of System.out or System.err by a logger.(ùÖ×¯üÿÿÿÿ8…´‚Éì-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(»¦ÿ¶ùÿÿÿÿ8êÂ€Éì-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(œÈúûÿÿÿÿ8ÏÛ¸Èì-
