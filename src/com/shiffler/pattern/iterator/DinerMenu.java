@@ -3,6 +3,7 @@
  */
 
 package com.shiffler.pattern.iterator;
+import java.util.Iterator;
 
 public class DinerMenu implements Menu{
 

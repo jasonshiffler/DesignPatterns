@@ -1,4 +1,9 @@
+/**
+ * Arrays don't have a built in Iterator so we have created one.
+ */
+
 package com.shiffler.pattern.iterator;
+import java.util.Iterator;
 
 public class DinerMenuIterator implements Iterator<MenuItem> {
 
@@ -14,11 +19,11 @@ public class DinerMenuIterator implements Iterator<MenuItem> {
      * @return true if there is another item, false if there isn't
      */
     @Override
-    public Boolean hasNext() {
+    public boolean hasNext() {
         if (items[position] == null || position >= items.length)
-            return Boolean.valueOf(false);
+            return false;
         else
-            return Boolean.valueOf(true);
+            return true;
     }
 
     /**
